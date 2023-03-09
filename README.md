@@ -1,2 +1,2 @@
-# zpaq-backup-gtm-linux
-Archiving and backuping Regions at GT.M database engine
+# Description
+Archiving and backuping Regions at GT.M (https://en.wikipedia.org/wiki/GT.M) database engine
